@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.12</version>
+    <version>1.0.13</version>
     <url>https://github.com/suho-j/GJPNewMember_Release/raw/main/GJPNewMember_Setup.exe</url>
     <changelog>https://suho-j.github.io/GJPNewMember_Release/changelog.html</changelog>
     <mandatory>false</mandatory>
